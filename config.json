@@ -1,14 +1,14 @@
 {
-    "database": "produits",
-    "host": "localhost",
-    "password": "prime123",
-    "tablename": "produits",
-    "user": "root",
+    "host": "your host address here",
+    "password": "your database password",
+    "tablename": "the table name in your CSV file",
+    "user": "your database username",
     "columnsMap": {
-        "designation": "designation_csv",
-        "id": "id_csv",
-        "prix": "prix_csv",
-        "prixAchat": null
+        "db_table_column1": "csv_file_column2",
+        "db_table_column2": "csv_file_column5",
+        "db_table_column3": "csv_file_column7",
+        "db_table_column4": "csv_file_column1",
+        "db_table_columnN": null 
     },
-    "mapColumns": true
+    "mapColumns": true 
 }

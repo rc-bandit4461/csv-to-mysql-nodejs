@@ -1,0 +1,14 @@
+{
+    "database": "produits",
+    "host": "localhost",
+    "password": "prime123",
+    "tablename": "produits",
+    "user": "root",
+    "columnsMap": {
+        "designation": "designation_csv",
+        "id": "id_csv",
+        "prix": "prix_csv",
+        "prixAchat": null
+    },
+    "mapColumns": true
+}

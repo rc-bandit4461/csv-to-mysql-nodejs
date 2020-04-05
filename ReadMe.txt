@@ -1,3 +1,5 @@
+This app is created using NodeJS. it needs to have its configuration set before working with it.
+You can create the config file using the electron version of this, linked here : https://github.com/aymanboubleh/ExcelToMySQL
 to properly use the app, there is a config.json file that you have to configure yourself.
  }
  "database": "YourTableName in the database here",
